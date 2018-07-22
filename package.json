@@ -1,7 +1,7 @@
 {
-  "name": "@dashevo/dashcore-p2p",
+  "name": "alarmxcore-p2p",
   "version": "1.1.6",
-  "description": "Interface to the dash P2P network for Dashcore",
+  "description": "Interface to the alarmx P2P network for Alarmxcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -46,20 +46,20 @@
   "keywords": [
     "bitcoin",
     "bitcore",
-    "dashcore"
+    "alarmxcore"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashcore-p2p.git"
+    "url": "https://github.com/alarmxcore/alarmxcore-p2p.git"
   },
   "dependencies": {
-    "bitcore-lib-dash": "^0.15.2",
+    "alarmxcore-lib": "^0.15.6",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-dash": "dashpay/bitcore-build-dash",
+    "bitcore-build-alarmx": "alarmxcore/bitcore-build-alarmx",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
