@@ -10,7 +10,7 @@ var expect = chai.expect;
 var sinon = require('sinon');
 var fs = require('fs');
 
-var bitcore = require('alarmxcore-lib');
+var bitcore = require('bitcore-lib-alarmx');
 var _ = bitcore.deps._;
 var P2P = require('../');
 var Peer = P2P.Peer;

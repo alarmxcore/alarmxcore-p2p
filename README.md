@@ -1,23 +1,23 @@
-Alarmxcore P2P
+Bitcore P2P - Alarmx
 =======
 
-[![NPM Package](https://img.shields.io/npm/v/alarmxcore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/alarmxcore-p2p)
-[![Build Status](https://img.shields.io/travis/alarmxcore/alarmxcore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/alarmxcore/alarmxcore-p2p)
-[![Coverage Status](https://img.shields.io/coveralls/alarmxcore/alarmxcore-p2p.svg?style=flat-square)](https://coveralls.io/r/alarmxcore/alarmxcore-p2p?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/bitcore-p2p-alarmx.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p-alarmx)
+[![Build Status](https://img.shields.io/travis/alarmxcore/bitcore-p2p-alarmx.svg?branch=master&style=flat-square)](https://travis-ci.org/alarmxcore/bitcore-p2p-alarmx)
+[![Coverage Status](https://img.shields.io/coveralls/alarmxcore/bitcore-p2p-alarmx.svg?style=flat-square)](https://coveralls.io/r/alarmxcore/bitcore-p2p-alarmx?branch=master)
 
-`alarmxcore-p2p` adds Alarmx protocol support for Alarmxcore.
+`bitcore-p2p-alarmx` adds Alarmx protocol support for Alarmxcore.
 
 See [the main alarmxcore repo](https://github.com/alarmxcore/alarmx) for more information.
 
 ## Getting Started
 
 ```sh
-npm install alarmxcore-p2p
+npm install bitcore-p2p-alarmx
 ```
 In order to connect to the Alarmx network, you'll need to know the IP address of at least one node of the network, or use [Pool](/docs/pool.md) to discover peers using a DNS seed.
 
 ```javascript
-var Peer = require('alarmxcore-p2p').Peer;
+var Peer = require('bitcore-p2p-alarmx').Peer;
 
 var peer = new Peer({host: '127.0.0.1'});
 
