@@ -1,9 +1,9 @@
 Bitcore P2P - Alarmx
 =======
 
-[![NPM Package](https://img.shields.io/npm/v/bitcore-p2p-alarmx.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p-alarmx)
-[![Build Status](https://img.shields.io/travis/alarmxcore/bitcore-p2p-alarmx.svg?branch=master&style=flat-square)](https://travis-ci.org/alarmxcore/bitcore-p2p-alarmx)
-[![Coverage Status](https://img.shields.io/coveralls/alarmxcore/bitcore-p2p-alarmx.svg?style=flat-square)](https://coveralls.io/r/alarmxcore/bitcore-p2p-alarmx?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/bitcore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p)
+[![Build Status](https://img.shields.io/travis/alarmxcore/bitcore-p2p-alarmx.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-p2p)
+[![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore-p2p.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-p2p?branch=master)
 
 `bitcore-p2p-alarmx` adds Alarmx protocol support for Alarmxcore.
 

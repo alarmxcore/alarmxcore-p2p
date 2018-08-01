@@ -1,7 +1,7 @@
 {
   "name": "bitcore-p2p-alarmx",
   "version": "1.1.6",
-  "description": "Interface to the alarmx P2P network for Alarmxcore",
+  "description": "Interface to the alarmx P2P network for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -53,13 +53,13 @@
     "url": "https://github.com/alarmxcore/bitcore-p2p-alarmx.git"
   },
   "dependencies": {
-    "bitcore-lib-alarmx": "^0.15.6",
+    "bitcore-lib-alarmx":  "git://github.com/alarmxcore/bitcore-lib-alarmx.git",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-alarmx": "alarmxcore/bitcore-build-alarmx",
+    "bitcore-build-alarmx":  "git://github.com/alarmxcore/bitcore-build-alarmx.git",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
