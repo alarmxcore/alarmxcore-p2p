@@ -20,7 +20,7 @@ var Inventory = p2p.Inventory;
 var Block = bitcore.Block;
 var Transaction = bitcore.Transaction;
 
-// config 
+// config
 var network = process.env.NETWORK === 'testnet' ? Networks.testnet : Networks.livenet;
 var messages = new Messages({
   network: network
@@ -39,7 +39,7 @@ var txHash = {
 };
 
 // These tests require a running bitcoind instance
-describe('Integration with ' + network.name + ' bitcoind', function() {
+describe('Integration with ' + network.name + ' alarmxd', function() {
 
   this.timeout(15000);
   var opts = {
