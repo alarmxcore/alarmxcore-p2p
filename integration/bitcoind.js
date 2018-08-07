@@ -39,7 +39,7 @@ var txHash = {
 };
 
 // These tests require a running bitcoind instance
-describe('Integration with ' + network.name + ' alarmxd', function() {
+describe('Integration with ' + network.name + ' bitcoind', function() {
 
   this.timeout(15000);
   var opts = {

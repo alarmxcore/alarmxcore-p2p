@@ -1,13 +1,13 @@
-Bitcore P2P - Alarmx
+Bitcore P2P-Alarmx
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p)
-[![Build Status](https://img.shields.io/travis/alarmxcore/bitcore-p2p-alarmx.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-p2p)
+[![Build Status](https://img.shields.io/travis/bitpay/bitcore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-p2p)
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore-p2p.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-p2p?branch=master)
 
-`bitcore-p2p-alarmx` adds Alarmx protocol support for Alarmxcore.
+`bitcore-p2p-alarmx` adds Alarmx protocol support for Bitcore-Alarmx.
 
-See [the main alarmxcore repo](https://github.com/alarmxcore/alarmx) for more information.
+See [the main bitcore-alarmx repo](https://github.com/alarmxcore/bitcore-alarmx) for more information.
 
 ## Getting Started
 
@@ -47,10 +47,10 @@ Take a look at the [bitcore guide](http://bitcore.io/guide/peer.html) on the usa
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/alarmxcore/alarmx/blob/master/CONTRIBUTING.md) on the main alarmxcore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/alarmxcore/bitcore-alarmx/blob/master/CONTRIBUTING.md) on the main bitcore-alarmx repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/alarmx/alarmx/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
